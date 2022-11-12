@@ -1,0 +1,20 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans');
+* {
+    font-family: 'Work Sans', sans-serif;
+}
+body {
+    margin: 0px;
+}
+header {
+    width: 30em;
+    height: 5.5em;
+    background-color: #232323;
+    border-radius: 0px 0px 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.210);
+}
+h1 {
+    margin: 0px;
+    margin-left: 0.6em;
+    color: rgb(247, 247, 247);
+}
